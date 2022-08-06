@@ -13,8 +13,11 @@ and composition of outlet stream.
 ## Data
 
 Inlet stream 1:  10 mol % Methanol solution flowing at 20 kmol/h 
+
 Inlet stream 2: 80 mol % Methanol solution flowing at 10 kmol/h 
+
 Both the streams are at 30°C and at 1 bar pressure 
+
 The liquid streams can be considered as ideal  
  
 
