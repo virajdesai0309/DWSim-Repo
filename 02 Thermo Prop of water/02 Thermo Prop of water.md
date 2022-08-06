@@ -1,24 +1,18 @@
+## Determination of Thermo-physical Properties of Pure Component  
 
 
-
-## Generation of VLE Data of Binary Component System 
-
- 
 
 ## Objective
 
-Generate vapour-liquid equilibrium data (VLE) for a binary component system 
- 
+Determine the thermo-physical properties of pure component as function of temperature and pressure. For instance, determine the specific heat capacity of liquid water at 1 bar from 30 °C to 90 °C  
+
 
 ## Data
 
+Fluid: Water  
 
-Fluid components: Benzene - Toluene 
+Thermodynamic model: Ideal  
 
-Pressure = 1 atm
- 
-Thermodynamic model: Ideal
- 
 
 ## DWSIM Blocks Used
 
@@ -29,8 +23,4 @@ Material Stream
 Raoult’s law
 
 ## Flowsheet
-![image](https://user-images.githubusercontent.com/87890409/183238532-94ac3eb8-0b46-469e-9c5c-c5a261d2f9a9.png)
-
-After updating data
-
-![image](https://user-images.githubusercontent.com/87890409/183238545-9fb18073-a35c-4132-bdb3-ef8f17895f91.png)
+![image](https://user-images.githubusercontent.com/87890409/183234420-9d993f6e-f838-49fd-8b5f-7ef8cb8f1206.png)
