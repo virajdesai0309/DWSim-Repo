@@ -31,3 +31,5 @@ Raoult’s law
 
 ## Flowsheet
 ![image](https://user-images.githubusercontent.com/87890409/183234235-c548e622-bf40-4fb2-9111-f93b1c75fe62.png)
+![image](https://user-images.githubusercontent.com/87890409/184317846-ef3ef308-dac1-41ea-b7ee-30d42d551ec9.png)
+
