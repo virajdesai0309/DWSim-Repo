@@ -23,4 +23,19 @@ Material Stream
 Raoult’s law
 
 ## Flowsheet
-![image](https://user-images.githubusercontent.com/87890409/183234420-9d993f6e-f838-49fd-8b5f-7ef8cb8f1206.png)
+![image](https://user-images.githubusercontent.com/87890409/184322236-1d54ed9a-1207-484c-9d51-ca64287b6372.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321004-7ab46226-3746-4a9a-9c76-88408938b4f4.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321148-70b9ecc5-7ff6-4b9b-8845-88056c80cc2e.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321269-01109d16-8758-4d93-a44e-4d4ff923321d.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321396-e391aa22-be87-4497-bdb0-0ba2fd2aa16f.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321477-ad33dc4f-2c02-47a7-8399-5c15d70c10f8.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321547-92409c63-c5e4-4b45-80fe-f95376e83bed.png)
+
+![image](https://user-images.githubusercontent.com/87890409/184321772-185034ee-6b52-4227-8daf-831267d4f6f6.png)
+
