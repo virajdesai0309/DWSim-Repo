@@ -34,6 +34,6 @@ Raoult's Law
 
 ## Flowsheet
 
-![image](https://user-images.githubusercontent.com/87890409/188297688-0b2a066e-c16f-47c3-af75-59360b2bed12.png)
+![16 Yellow Hydrogen Medium Size](https://user-images.githubusercontent.com/87890409/190904250-995e6c50-eeea-47bd-92bb-f84ff60f0e19.gif)
 
 
