@@ -23,4 +23,5 @@ Steam Table
 
 ## Flowsheet
 
-![image](https://user-images.githubusercontent.com/87890409/193416952-9a820406-818b-4675-879d-ebeca6a19291.png)
+![24 Line Hydraulics](https://user-images.githubusercontent.com/87890409/193440134-9065ae71-20e7-427e-9cc3-2c9a25a03953.gif)
+
