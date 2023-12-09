@@ -1,6 +1,3 @@
-
-
-
 ## INSTALLATION GUIDELINES FOR WINDOWS OS
 
  
@@ -13,21 +10,21 @@
 
 ***System Requirements for DWSIM on Windows Platform***  
 
-OS: Windows: 64-bit x86 XP/Vista/7/8/10 
+* OS: Windows: 64-bit x86 XP/Vista/7/8/10 
 
-Linux: 64-bit x86 Ubuntu 12.04 or newer / 32-bit armhf Raspbian/Ubuntu MATE 
+* Linux: 64-bit x86 Ubuntu 12.04 or newer / 32-bit armhf Raspbian/Ubuntu MATE 
 
-macOS: 10.7 (OS X Lion) or newer Software: Microsoft .NET Framework 4.5 or newer (Windows)  Mono Framework 5.0.0 or newer (Linux/macOS) 
+* macOS: 10.7 (OS X Lion) or newer Software: Microsoft .NET Framework 4.5 or newer (Windows)  Mono Framework 5.0.0 or newer (Linux/macOS) 
 
-CPU:   1.0 GHz dual-core processor (minimum) 
+* CPU:   1.0 GHz dual-core processor (minimum) 
 
-Memory: 1 GB RAM 
+* Memory: 1 GB RAM 
 
-Graphics Card: 128 MB with OpenGL hardware acceleration 
+* Graphics Card: 128 MB with OpenGL hardware acceleration 
 
-Display: a 1280x800 display resolution is recommended as a minimum. 
+* Display: a 1280x800 display resolution is recommended as a minimum. 
 
-Disk space: 300 MB for program files 
+* Disk space: 300 MB for program files 
  
 Steps to be followed for installing DWSIM Version 8.0 (Windows) 
  
@@ -46,5 +43,44 @@ Now just click I Agree button [retain the default installation option: “Instal
 will show up. Follow the instructions on screen and complete the same.  
 11. Once installation is completed without error, click Next and click Finish to close the wizard. You will notice two icons in the desktop titled “DWSIM (Classic UI)” and  “DWSIM” 
 
-
 ![image](https://user-images.githubusercontent.com/87890409/183234910-9b670375-1d6e-4d9a-82bb-4df15c2aba42.png)
+
+---
+
+## Frequently asked questions ❔
+
+### How can I thank you for writing and sharing this tutorial?
+
+You can <img src="https://img.shields.io/static/v1?label=%E2%AD%90 Star &message=if%20useful&style=style=flat&color=blue" alt="Star Badge"/> and <img src="https://img.shields.io/static/v1?label=%E2%B5%96 Fork &message=if%20useful&style=style=flat&color=blue" alt="Fork Badge"/> Starring and Forking is free for you, but it tells me and other people that it was helpful and you like this tutorial.
+
+Go [**`here`**](https://github.com/virajdesai0309/DWSim-Repo) if you aren't here already and click ➞ **`✰ Star`** and **`ⵖ Fork`** button in the top right corner. You'll be asked to create a GitHub account if you don't already have one.
+
+---
+
+## Author
+
+Hello All! My name is Desai Viraj and I am the writter of these training modules. If you think you can add/correct/edit and enhance this tutorial you are most welcome🙏
+
+
+For contributing to this open source repository 
+
+1. Create a Github account [![Github](https://img.shields.io/badge/Github-181717.svg?&style=flate&logo=Github&logoColor=white)](https://github.com/) and install git into your machine for seamless experience [![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flate&logo=Git&logoColor=white)](https://git-scm.com/)
+
+2. Generate a pull up request from the repository using the pull up request
+
+3. Clone the repository into your local machine and once done you may commit and push changes
+
+See [github's contributors page](https://github.com/virajdesai0309/DWSim-Repo/graphs/contributors) for details.
+
+If you have trouble with this tutorial please tell me about it by [Create an issue on GitHub](https://github.com/virajdesai0309/DWSim-Repo/issues/new). and I'll make this tutorial better. This is probably the best choice if you had trouble following the tutorial, and something in it should be explained better. You will be asked to create a GitHub account if you don't already have one.
+
+If you like this tutorial, please [give it a ⭐ star](https://github.com/virajdesai0309/DWSim-Repo).
+
+------------
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+Copyright (c) 2020 Desai Viraj
+
+------------
