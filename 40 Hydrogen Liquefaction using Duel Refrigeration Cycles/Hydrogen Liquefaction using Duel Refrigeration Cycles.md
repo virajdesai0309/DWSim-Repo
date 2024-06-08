@@ -38,7 +38,8 @@ The study successfully replicated the hydrogen liquefaction process using dual r
 ---
 
 # ASPEN Hysys Results
-`Add Image`
+![image](https://github.com/virajdesai0309/DWSim-Repo/assets/87890409/80167e93-a7fe-4f24-89e3-016eab2ced42)
+
 
 # DWSim Results
-`Add Image`
+![image](https://github.com/virajdesai0309/DWSim-Repo/assets/87890409/9c6e8c2d-b7e5-4fbb-9d53-4b84170cb44e)
