@@ -1,0 +1,29 @@
+name: Update Project Tree
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # Runs every 24 hours at midnight UTC
+  workflow_dispatch:    # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install tree command
+      run: sudo apt-get install -y tree
+
+    - name: Generate tree structure
+      run: |
+        tree -I '.git|node_modules|venv|env|__pycache__' -a -L 3 > tree.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add tree.md
+        git commit -m "Update project tree"
+        git push
