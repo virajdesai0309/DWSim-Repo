@@ -18,7 +18,12 @@ jobs:
 
     - name: Generate tree structure
       run: |
-        tree -I '.git|node_modules|venv|env|__pycache__' -a -L 3 > tree.md
+        # Add tree command path to the PATH environment variable
+        $env:Path += ";C:\Program Files (x86)\GnuWin32\bin"
+        # Generate the directory structure and save it to tree.md with Markdown formatting
+        echo '```' > tree.md
+        tree /A /F >> tree.md
+        echo '```' >> tree.md
 
     - name: Commit and push changes
       run: |
