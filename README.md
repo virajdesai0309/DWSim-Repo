@@ -84,3 +84,6 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 Copyright (c) 2020 Desai Viraj
 
 ------------
+### Folder Structure
+[Project Folder Structure](tree.md)
+

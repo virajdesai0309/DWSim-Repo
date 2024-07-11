@@ -1,0 +1,31 @@
+name: Update Project Tree on Windows
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"  # Runs every 24 hours at midnight UTC
+  workflow_dispatch:    # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate tree structure
+      run: |
+        # Add tree command path to the PATH environment variable
+        $env:Path += ";C:\Program Files (x86)\GnuWin32\bin"
+        # Generate the directory structure and save it to tree.md with Markdown formatting
+        echo '```' > tree.md
+        tree /A /F >> tree.md
+        echo '```' >> tree.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add tree.md
+        git commit -m "Update project tree"
+        git push
