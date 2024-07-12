@@ -1,6 +1,6 @@
 ```
 Folder PATH listing for volume Temporary Storage
-Volume serial number is 3EFE-05F7
+Volume serial number is 3EE9-3550
 D:.
 |   LICENSE
 |   README.md
@@ -230,10 +230,21 @@ D:.
 |       image.png
 |       Readme.md
 |       
-\---40 Hydrogen Liquefaction using Duel Refrigeration Cycles
-        40 Hydrogen Liquefaction using Duel Refrigeration Cycles.dwxmz
-        40 Hydrogen Liquefaction using Duel Refrigeration Cycles.hsc
-        40 Hydrogen Liquefaction using Duel Refrigeration Cycles_backup.dwxmz
-        Hydrogen Liquefaction using Duel Refrigeration Cycles.md
++---40 Hydrogen Liquefaction using Duel Refrigeration Cycles
+|       40 Hydrogen Liquefaction using Duel Refrigeration Cycles.dwxmz
+|       40 Hydrogen Liquefaction using Duel Refrigeration Cycles.hsc
+|       40 Hydrogen Liquefaction using Duel Refrigeration Cycles_backup.dwxmz
+|       Hydrogen Liquefaction using Duel Refrigeration Cycles.md
+|       
++---41 DWSim X OPC UA
+|       OPC.ipynb
+|       Server.py
+|       
+\---42 Heat exchanger TEMA Sheet
+        42 Shell and Tube HEX.EDR
+        42 Shell and Tube Rating Mode.dwxmz
+        42 Shell and Tube Rating Mode.pdf
+        42 Shell and Tube Rating Mode_backup.dwxmz
+        42 TEMA Specs Updated.pdf
         
 ```
