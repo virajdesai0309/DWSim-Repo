@@ -14,17 +14,17 @@ Reactive distillation is often used in processes where the reaction is reversibl
 
 The chemical reaction between polycarbonate (PC) and methanol (MeOH) to produce dimethyl carbonate (DMC) and propylene glycol (PG) is given by:
 
-\[
+$$\
 \text{PC} + 2 \text{MeOH} \leftrightarrow \text{DMC} + \text{PG}
-\]
+\$$
 
 ### Reaction Rate Equation
 
 The reaction rate is expressed as:
 
-\[
+$$\[
 r = k_F C_{\text{PC}} C_{\text{MeOH}} - k_R \frac{C_{\text{DMC}} C_{\text{PG}}}{C_{\text{MeOH}}}
-\]
+\]$$
 
 Where:
 - \( r \) is the reaction rate.
@@ -35,21 +35,21 @@ Where:
 
 The forward and reverse reaction rate constants are temperature-dependent and are given by:
 
-\[
+$$\[
 k_F = 16551.8 \times \exp\left(\frac{41373.5}{RT}\right)
-\]
+\]$$
 
-\[
+$$\[
 k_R = 19254.75 \times \exp\left(\frac{28285.5}{RT}\right)
-\]
+\]$$
 
 ### Parameters for the Arrhenius-Like Equation
 
 The general form of the Arrhenius-like equation is:
 
-\[
+$$\[
 y = a + b \times \exp\left(\frac{-c}{T^d}\right)
-\]
+\]$$
 
 #### For \( k_F \):
 
