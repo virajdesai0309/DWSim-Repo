@@ -113,6 +113,10 @@
 3. The flowsheet ensures energy balance through the Specification Block.
 
 ---
+### Flowsheet
+![image](https://github.com/user-attachments/assets/208cf111-8175-47be-b378-199d64fbbbdc)
+
+---
 
 ### **Use Case Details**:
 1. **Objective**:
@@ -186,5 +190,8 @@
 ### **Verification**:
 - Check that the mixed stream temperature ($T_{\text{mix}}$) is exactly $70^\circ\text{C}$.
 - The Adjust Block will provide the final adjusted hot water flow rate ($\dot{m}_{\text{hot}}$).
+---
+### Flowsheet
+![image](https://github.com/user-attachments/assets/ecb41b6d-2ef3-46f9-a5f1-d805b90205d9)
 
 ---
