@@ -175,7 +175,6 @@
 
 ### **5. Run the Simulation**:
 - Solve the flowsheet. The **Adjust Block** will iteratively modify $\dot{m}_{\text{hot}}$ (hot water flow rate) until $T_{\text{mix}} = 70^\circ\text{C}$ is achieved.
-
 ---
 
 ### **Expected Outcome**:
